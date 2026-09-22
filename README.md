@@ -132,7 +132,7 @@ Dataset v1.3 — 40 queries anotadas (35 médicas + 5 guardrails), 14 libros:
 | Persistencia | SQLite — sesiones, historial, feedback, métricas |
 | Frontend | HTML5 + CSS3 + JS vanilla + Chart.js + Lucide Icons |
 | PDF | fpdf2 (pure Python, sin dependencias nativas) |
-| Tests | pytest 185 aserciones |
+| Tests | pytest, 185 tests |
 | CI | GitHub Actions (Python 3.13, ubuntu-latest) |
 | Deploy | Docker + docker-compose + nginx |
 
